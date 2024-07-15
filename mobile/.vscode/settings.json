@@ -1,0 +1,5 @@
+{
+	"dart.sdkPath": "C:\\tools\\dart-sdk", // Change this to your Dart SDK path
+	"dart.flutterSdkPath": "C:\\tools\\flutter",
+	"cSpell.words": ["applocalization"] // Change this to your Flutter SDK path
+}

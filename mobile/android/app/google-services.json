@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "952751070155",
+    "project_id": "all-your-look",
+    "storage_bucket": "all-your-look.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952751070155:android:a33dd607d23b3b58ba344e",
+        "android_client_info": {
+          "package_name": "com.wakdak.wakdakCustomer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952751070155-4dsk2ft1k53a5q0chrk5e07ak0mc5hd7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wakdak.wakdakCustomer",
+            "certificate_hash": "b628f5c0e1a1c3ffc731a206204849e468601ff5"
+          }
+        },
+        {
+          "client_id": "952751070155-jgsi1893f3p7g60s0sbkbe4uggmumjc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKXbM0YUOrbnwAQEBUgojAHUM9trEHRoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952751070155-jgsi1893f3p7g60s0sbkbe4uggmumjc8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "952751070155-2ep0birei4ius5j3ipuk8a13btbpla4q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.allyourlook.allyourlook"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
